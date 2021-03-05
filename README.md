@@ -9,3 +9,4 @@ Hello 👋, 42 is an answer for everything.
 - [ ] python & dubbo 爬虫     
 - [ ] 爬虫的调度中心    
 - [ ] JAVA + ELK 日文数据检索     
+- [ ] 使用 openCV 实现商品图像识别
