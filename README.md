@@ -1,4 +1,4 @@
-Hello 👋, 42 is an answer for everything.
+Hello 👋, 42 is the answer for everything.
 
 <p align="center">
 <img alt="dog head emoji" src="https://user-images.githubusercontent.com/20685961/159724882-24ca985c-195c-4b5c-9862-551d7879da38.png" width="400" height="400">
