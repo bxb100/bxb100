@@ -23,7 +23,6 @@ busy writing ☕ bugs-->
 Time to learn AI manners[^1]
 
 [^1]: https://distantprovince.by/posts/its-rude-to-show-ai-output-to-people/
--->
 
 ## Context Engineering: Sessions & Memory
 
@@ -32,3 +31,4 @@ Time to learn AI manners[^1]
 <https://drive.google.com/file/u/0/d/1JW6Q_wwvBjMz9xzOtTldFfPiF7BrdEeQ/view>
 
 ![Different multi-agent architectural patterns](./Different%20multi-agent%20architectural%20patterns.png)
+-->
