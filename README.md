@@ -32,3 +32,10 @@ Time to learn AI manners[^1]
 
 ![Different multi-agent architectural patterns](./Different%20multi-agent%20architectural%20patterns.png)
 -->
+
+<p align="center">
+<img src="./1.png">
+<sub >https://x.com/HanchungLee/status/2040696176383853003</sub>
+</p>
+
+
